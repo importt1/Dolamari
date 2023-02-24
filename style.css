@@ -26,12 +26,7 @@ text-decoration: none;
     font-size: 10px;
     margin-top:15% ;
     margin-bottom:20px ;
-}
-header ul{
-    height: 10px;
-    display: flex;
-    justify-content: baseline;
-}
+
 
 @keyframes animate{
     0%{
