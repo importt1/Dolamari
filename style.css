@@ -14,7 +14,7 @@ body{
     justify-content: baseline;
     animation: animate 15s ease infinite;
     display: inline-block;
-padding: 15px 8px;
+padding: 10px 7px;
 text-decoration: none;
     color: #fff;
     text-transform: uppercase;
@@ -29,7 +29,7 @@ text-decoration: none;
     color:#fff;
     font-size: 15px;
     margin-top:15% ;
-    margin-bottom:20px ;
+    margin-bottom:0px ;
 }
 @keyframes animate{
     0%{
