@@ -14,21 +14,21 @@ body{
     justify-content: baseline;
     animation: animate 15s ease infinite;
     display: inline-block;
-padding: 15px 5px;
+padding: 10px 5px;
 text-decoration: none;
     color: #fff;
     text-transform: uppercase;
-    font-size: 10px;
+    font-size: 6px;
     padding: 5px 10px;
     
     text-align: center;
     color:#fff;
-    font-size: 15px;
+    font-size: 10px;
     margin-top:15% ;
     margin-bottom:20px ;
 }
 header ul{
-    height: 15px;
+    height: 10px;
     display: flex;
     justify-content: baseline;
 }
