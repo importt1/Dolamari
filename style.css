@@ -5,7 +5,7 @@
 body{
     font-family: ubun;
     z-index:1 ;
-    background: linear-gradient(-45deg,lightblue,grey,black);
+    background: linear-gradient(-45deg,red,grey,black);
     background-size: 400% 400%;
     width: 100%;
     height: 100vh;
