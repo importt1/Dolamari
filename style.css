@@ -57,7 +57,7 @@ text-decoration: none;
     }
     50%{background-position: 100% 50%;}
     100%{background-position: 0 50%;}
-}
+
 
 section::before{
    content: '';
@@ -124,4 +124,5 @@ h2 span:nth-child(5){
 h2 span:nth-child(6){
    opacity: 0;
    animation-delay: 3.75s;
+}
 }
