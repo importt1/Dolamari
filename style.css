@@ -7,6 +7,8 @@ body{
  background-color: black;
    background-size: cover;
    background-position: center;
+    background-repeat: no-repeat;
+
  
 }
 .logo{
@@ -16,6 +18,8 @@ width: 370px;
 background-size: cover;
 background-position: center;
 position: relative;
+ background-repeat: no-repeat;
+
 
 }
 .links{
