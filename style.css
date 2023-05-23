@@ -4,20 +4,27 @@
     box-sizing: border-box;
 }
 body{
-   background-attachment: fixed;
-   background-image: url(asherat.jpeg);
-   background-repeat: no-repeat;
+ background-color: black;
    background-size: cover;
    background-position: center;
+ 
 }
+.logo{
+    margin-top: 70px;
+    padding: auto;
+width: 370px;
+background-size: cover;
+background-position: center;
+position: relative;
 
+}
 .links{
    
 transition: none;
-    margin-top:45% ;
-    margin-bottom:0% ;
-    padding: 3px;
- text-align: center;
+margin-top:25% ;
+margin-bottom:0% ;
+padding: 3px;
+text-align: center;
  
 }
 .facebook{
